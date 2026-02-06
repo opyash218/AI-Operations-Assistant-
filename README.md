@@ -76,6 +76,7 @@ ai_ops_assistant/
 └── README.md
 
 ⚙️ Setup Instructions
+
 1️⃣ Clone Repository
 git clone  https://github.com/opyash218/AI-Operations-Assistant-.git
 cd ai_ops_assistant
@@ -181,6 +182,7 @@ LLM usage	Structured planning + verification
 API integrations	Weather + GitHub + News
 Local execution	FastAPI server
 Structured outputs	JSON planning + responses
+
 ✅ Conclusion
 
 This project demonstrates an end-to-end AI agent system capable of:
