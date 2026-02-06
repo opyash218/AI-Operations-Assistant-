@@ -102,6 +102,32 @@ pip install -r requirements.txt
 4️⃣ Environment Variables
 
 API keys are required but not included for security reasons. Use .env.example as reference.
+
+🔐 API Keys Setup (Required)
+
+This project uses external APIs. You must generate your own free keys.
+
+1️⃣ OpenAI API Key
+
+• Go to: https://platform.openai.com/
+
+• Sign in → API Keys → Create new key
+• Add to .env
+
+2️⃣ Weather API Key (OpenWeatherMap)
+
+• Go to: https://openweathermap.org/api
+
+• Sign up → Get API Key
+• Add to .env
+
+3️⃣ News API Key (Optional)
+
+• Go to: https://newsapi.org/
+
+• Register → Get key
+
+
 Create .env file using:
 
 OPENAI_API_KEY=your_openai_key
